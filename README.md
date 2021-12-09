@@ -23,7 +23,7 @@ You can reach me at the email in my github profile. Follow my socials!
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmateva18&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/emmateva18/emmateva18">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=emmateva18&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=emmateva18&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ema's GitHub Stats" />
 </a>
 
 <a href="https://github.com/emmateva18/AMASS">
@@ -34,14 +34,6 @@ You can reach me at the email in my github profile. Follow my socials!
 <a href="https://github.com/emmateva18/FinalProject-Unity">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=idiliev18&repo=FinalProject-Unity&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
-<br></br>
-<details>	
-
-  <summary><b>🎵 Spotify things</b></summary>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aitpvftnh7fysafy3pe13ixit&cover_image=true&theme=novatorem&bar_color=3ab6cf&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-#
-</details>	
 
 <div align="center">
 
