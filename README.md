@@ -10,7 +10,7 @@ You can reach me at the email in my github profile. Follow my socials!
 
 [<img src="https://user-images.githubusercontent.com/58329141/145301916-156b328c-ebae-42c8-8881-57d137e6bdd5.png" height="40em" align="center" alt="Follow me on LinkedIn" title="Follow me on LinkedIn"/>](https://www.linkedin.com/in/ema-mateva-695823204/)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow me on Instagram" title="Follow me on Instagram"/>](https://www.instagram.com/mateva.ema/)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ahmeddanial&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## My Absolute Favorites:
 
